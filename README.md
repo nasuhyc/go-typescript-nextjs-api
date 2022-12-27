@@ -7,7 +7,7 @@ In this project, Go (Fiber, Gorm) and PostgreSQL are used on the server side, Re
 Clone the project
 
 ```bash
-  git clone https://github.com/nasuhyc/go-typescript-nextjs-api.git
+git clone https://github.com/nasuhyc/go-typescript-nextjs-api.git
 ```
 
 Go to the frontend directory.
