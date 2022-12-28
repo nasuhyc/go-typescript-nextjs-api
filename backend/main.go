@@ -1,9 +1,9 @@
 package main
 
 import (
-	"case-project/database"
-	"case-project/routes"
-	"case-project/secret"
+	"go-typescript/database"
+	"go-typescript/routes"
+	"go-typescript/secret"
 	"net/http"
 
 	"github.com/gofiber/fiber/v2"

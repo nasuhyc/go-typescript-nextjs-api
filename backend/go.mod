@@ -1,4 +1,4 @@
-module case-project
+module go-typescript
 
 go 1.19
 

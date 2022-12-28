@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"case-project/database"
-	"case-project/models"
 	"fmt"
+	"go-typescript/database"
+	"go-typescript/models"
 	"os"
 	"strconv"
 	"strings"

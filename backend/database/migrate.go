@@ -1,7 +1,7 @@
 package database
 
 import (
-	m "case-project/models"
+	m "go-typescript/models"
 )
 
 // ANCHOR - Migrate database

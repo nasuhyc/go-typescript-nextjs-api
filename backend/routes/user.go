@@ -1,7 +1,7 @@
 package routes
 
 import (
-	c "case-project/controllers"
+	c "go-typescript/controllers"
 
 	"github.com/gofiber/fiber/v2"
 )

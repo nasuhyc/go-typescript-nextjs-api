@@ -1,8 +1,8 @@
 package database
 
 import (
-	"case-project/secret"
 	"fmt"
+	"go-typescript/secret"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm/logger"
